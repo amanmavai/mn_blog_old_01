@@ -1,36 +1,36 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Aman Mavai"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Frontend Developer
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I am a highly experienced frontend developer with over a decade of experience working with a variety of technologies. My primary focus is on creating fast, responsive, and user-friendly interfaces that provide the best possible user experience.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+### Technologies I Use
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+- React
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- Node.js
+- Cypress
 
-## Tech Stack
+### My Approach
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+I believe that the key to creating great software is to focus on the user's needs. To that end, I always start my projects by researching and understanding the user's goals and requirements. From there, I use my expertise in frontend development to create interfaces that are intuitive, easy to use, and aesthetically pleasing.
 
-## Features
+In addition to my technical skills, I am a highly collaborative team player. I believe that the best results come from working closely with others and that open communication is essential to success.
 
-Here are certain features of this site.
+### My Experience
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Over the course of my career, I have worked on a wide variety of projects, from small single-page applications to large, complex web applications. Some of my most notable projects include:
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- A real-time collaboration platform for remote teams
+- A social media platform for pet owners
+- A mobile-friendly web app for a major e-commerce retailer
+
+### Contact Me
+
+If you have any questions or would like to discuss a potential project, please don't hesitate to reach out to me. You can contact me through my website or via email at [My Email](mailto:mavaiaman@gmail.com). Thank you for your interest!
