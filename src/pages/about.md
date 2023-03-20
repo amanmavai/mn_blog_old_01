@@ -3,8 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "Aman Mavai"
 ---
 
-## Frontend Developer
-
 I am a highly experienced frontend developer with over a decade of experience working with a variety of technologies. My primary focus is on creating fast, responsive, and user-friendly interfaces that provide the best possible user experience.
 
 ### Technologies I Use
