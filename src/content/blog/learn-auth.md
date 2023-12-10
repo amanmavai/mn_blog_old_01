@@ -323,3 +323,4 @@ Regardless of auth mechanism
 - https://www.youtube.com/watch?v=25GS0MLT8JU [Ben Awad]
 - https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/
 - https://securityheaders.com/
+- https://github.com/amariwan/reactJs-Mysql-Auth?tab=readme-ov-file#api
